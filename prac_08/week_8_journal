@@ -1,0 +1,28 @@
+P3402 Week 8 Learning Journal
+1. Learning activities and resources
+Main Activity:
+This week, I conducted a structured learning experiment using WordPress development resources. Below are the videos and tutorials I explored:
+https://www.linkedin.com/learning/wordpress-building-themes-from-scratch-using-underscores-2
+https://www.linkedin.com/learning/wordpress-building-progressive-themes-with-wp-rig-2
+https://www.linkedin.com/learning/wordpress-developer-tips-dry-development
+
+Theory:
+I hypothesised that applying the DRY (Do Not Repeat Yourself) principle to the theme development process would increase the efficiency and scalability of the themes I developed, while themes developed without this approach would be less efficient and scalable.
+
+Testing:
+Theme Selection: Focus on developing a custom WordPress theme using both the traditional approach and the DRY principle.
+Stage 1: Develop a portion of the theme without using the DRY principles.
+Phase 2: Redesign the same section using DRY principles with tutorial guidance.
+Metrics: Measure the time spent in each phase, the number of lines of code used, and compare functionality.
+Comparison: Evaluate the effectiveness of the DRY Principles in improving development efficiency and theme performance.
+
+2. Estimated learning hours
+This learning activity will take approximately 6 hours, including video tutorials, coding and analysis of results.
+3. Content revelations
+This experiment made it clear to me the benefits of the DRY development methodology. By avoiding code duplication, I was able to reduce the total number of lines of code, making the theme easier to maintain and modify. This not only saved development time, but also made the software more robust and less prone to errors.The implementation of the DRY principle made the code more streamlined and efficient, highlighting its importance in professional WordPress development.
+
+4. Career/employability/learning insights
+This learning experiment is highly relevant to my career development, especially in terms of improving my skills as a WordPress developer. By adopting best practices such as DRY, I am better able to deliver high quality products that meet industry standards and customer expectations. This approach has not only improved my employability, but has also contributed to my professional growth by deepening my understanding of efficient coding practices. The ability to develop scalable and maintainable code is critical in the competitive technology industry, and my continued focus on these areas will contribute to my continued professional growth.
+
+
+
