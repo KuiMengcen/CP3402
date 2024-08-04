@@ -1,0 +1,36 @@
+body {
+    font-family: $font-stack;
+    color: $text-color;
+    background-color: $background-color;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+h1, h2 {
+    margin: 0 0 20px 0;
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+ul {
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
+
+a {
+    color: $nav-link-color;
+    text-decoration: none;
+
+    &:hover {
+        color: $nav-link-hover-color;
+    }
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+}

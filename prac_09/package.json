@@ -1,0 +1,17 @@
+{
+  "name": "healthy-software-website",
+  "version": "1.0.0",
+  "description": "A simple website for healthy software",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.0.0",
+    "sass": "^1.32.13"
+  },
+  "author": "",
+  "license": "ISC"
+}
